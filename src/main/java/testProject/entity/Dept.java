@@ -27,4 +27,5 @@ public class Dept {
     /** バージョンです。 */
     @Version
     public Integer versionNo;
+
 }
